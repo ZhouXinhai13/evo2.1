@@ -1,0 +1,21 @@
+Score for iteration 1000
+Hits@1:  0.3886
+Hits@3:  0.6119
+Hits@10:  0.9387
+Hits@20:  0.9999
+MRR:  0.5467
+
+Score for iteration 2000
+Hits@1:  0.3887
+Hits@3:  0.5996
+Hits@10:  0.9458
+Hits@20:  1.0000
+MRR:  0.5450
+
+Score for iteration 3000
+Hits@1:  0.3818
+Hits@3:  0.5975
+Hits@10:  0.9632
+Hits@20:  0.9997
+MRR:  0.5412
+
